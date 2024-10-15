@@ -1,0 +1,24 @@
+{
+  "posts": [
+    {
+      "id": "3",
+      "title": "another title",
+      "body": 300
+    },
+    {
+      "id": "4",
+      "title": "another title",
+      "body": 400
+    },
+    {
+      "id": "5",
+      "title": "another title",
+      "body": 500
+    },
+    {
+      "id": "6",
+      "title": "another title",
+      "body": 600
+    }
+  ]
+}
